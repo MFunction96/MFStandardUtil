@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>MFunction</Authors>
+    <Company>MFunction ST</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright © 2019 MFunction</Copyright>
+    <Description>MFunction Standard Utils.</Description>
+    <PackageLicenseUrl>https://github.com/MFunction96/MFStandardUtil/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/MFunction96/MFStandardUtil</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MFunction96/MFStandardUtil</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
